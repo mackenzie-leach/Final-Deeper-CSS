@@ -1,11 +1,10 @@
 # Final-Deeper-CSS
-Project Title
-Final submission for Thinkful assignment: Creating an interactive website.
+Final submission for Thinkful assignment: _Creating an interactive website._
 
 **Description**
 In this project, I edited the index.html and style.css code to achieve the desired layout for Pete's redesigned portfolio.
 
-**Authors**
+**Author**
 Mackenzie Leach
 
 **Acknowledgments**
