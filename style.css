@@ -132,8 +132,8 @@ article {
 
 .portfolio {
   width: 400px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
   
 
 }
@@ -147,4 +147,8 @@ article {
 
   justify-content: center;
   text-align: center;
+}
+
+.background {
+  text-align: left;
 }
